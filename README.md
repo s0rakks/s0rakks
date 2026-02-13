@@ -11,7 +11,8 @@
 
 - Residing in: **Ukrainian**
 
-- Field of Study: [**Computer Science**](https://roadmap.sh/computer-science?fl=1)
+- Field of Study: ???
+  
 
 - Proficient in: ???
 
