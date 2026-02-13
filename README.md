@@ -23,11 +23,6 @@
 <br/>
 <img src="./img/banner-sqd.gif" width="500" /><br/>
 <sub>“Onece we die, we'll only be a statistic. It won't matter what we were called.” – Zero two&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SqdAndrik&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-  
-<img src="https://i.ibb.co/nNfP99t7/ppp1.png" width="100%" align="center" />
+
 </div>
 
