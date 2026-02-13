@@ -9,7 +9,7 @@
 
 - Name: **s0rakks**
 
-- Residing in: **Ukrainian**, **Lviv**
+- Residing in: **Ukrainian**
 
 - Field of Study: [**Computer Science**](https://roadmap.sh/computer-science?fl=1)
 
