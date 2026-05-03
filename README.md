@@ -9,14 +9,11 @@
 
 - Name: **s0rakks**
 
-- Residing in: **Ukrainian**
+- Field of Study:
 
-- Field of Study: ???
-  
+- Proficient in:
 
-- Proficient in: ???
-
-- Languages: Ukrainian, Russsia
+- Languages:
 
 <br/>
 <br/>
